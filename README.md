@@ -2,7 +2,7 @@
 
 This is a simple program to help me learn how to use Git with VSCodium and to better learn how GitHub works. The program simply prints "Hello World" to the terminal.
 
-[Software Demo Video](https://youtu.be/34FrHh9b_8Y)
+[Software Demo Video](https://youtu.be/pbjVRR4EqNo)
 
 # Development Environment
 
